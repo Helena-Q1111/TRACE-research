@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Dataset files are governed by the upstream dataset license and are not vendored.
+dataset/hooktheory/*
+!dataset/hooktheory/.gitkeep
+
+# Generated intermediate cache; final result tables and checkpoints are tracked.
+results/ablation_15d/window_tensors_split42.pt
