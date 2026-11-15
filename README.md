@@ -1,6 +1,6 @@
 # TRACE Research: Tension-Regularized Chord Embeddings
 
-Research code and results for TRACE (Tension-Regularized Auto-encoded Chord Embeddings), a study of 3D chord representations trained with a Tonal Pitch Space (TPS) distance prior. This repository contains the final multi-seed ablation and evaluation snapshot and accompanies the separate TRACE application repository.
+Research code and results for TRACE (Tension-Regularized Auto-encoded Chord Embeddings), a study of 3D chord representations trained with a Tonal Pitch Space (TPS) distance prior. This repository contains the final multi-seed ablation and evaluation snapshot and accompanies a separate TRACE application repository.
 
 ## Research question and scope
 
@@ -188,5 +188,6 @@ The Hooktheory/Sheet Sage dataset is distributed under **CC BY-NC-SA 3.0** and i
 - Bigand, E., & Parncutt, R. (1999). *Perceiving musical tension in long chord sequences*. Psychological Research, 62, 237–254.
 - Bharucha, J. J., & Krumhansl, C. L. (1983). *The representation of harmonic structure in music: Hierarchies of stability as a function of context*. Cognition, 13, 63–102.
 - Donahue, C., Thickstun, J., & Liang, P. (2022). *Melody transcription via generative pre-training*. ISMIR. The Hooktheory data used here is distributed through the Sheet Sage project.
-#   T R A C E - r e s e a r c h  
+#   T R A C E - r e s e a r c h 
+ 
  
